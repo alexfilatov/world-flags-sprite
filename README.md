@@ -25,6 +25,17 @@ In the body of your html file:
 </ul>
 ```
 
+Included Currency-related flags, like:
+
+```html
+<ul class="f16">
+  <li class="flag usd">USD</li>
+  <li class="flag eur">EUR</li>
+  <li class="flag chf">CHF</li>
+  ...
+</ul>
+```
+
 The countries corresponding to the codes can be found at: [http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
