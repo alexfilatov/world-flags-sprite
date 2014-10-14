@@ -1,4 +1,4 @@
-# The flags of all countries in the world in one sprite
+# The flags of all countries in the world in one sprite and flags of all world's currencies
 
 Include 1 css file and have all the worlds' flags on your site. Tell everyone who uses a lot of country flags to use this link, so it will be in everyone's cache!
 
